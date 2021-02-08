@@ -4,13 +4,33 @@
 }
 
 body{
-    background-color: aquamarine;
+    background-color: rgb(127, 172, 255);
 }
 
 main{
     background-color: white;
     width: 500px;
     margin: auto;
-    padding: 10px;
+    padding: 20px 20px 20px 20px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
 }
+
+h1{
+    font-size: 2em;
+    color: rgb(7, 0, 112);
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 1.5em;
+    color: rgb(7, 0, 112);
+}
+
+img.lado{
+    float:left;
+    padding: 5px 5px 5px 5px;
+}
+
+
+
